@@ -1,0 +1,12 @@
+# YouTube 视频 URL 列表示例
+# 以 # 开头的行会被忽略（可作为注释）
+# 每行写一个视频 URL
+
+# 示例视频链接（请替换为实际的 YouTube URL）
+# https://www.youtube.com/watch?v=VIDEO_ID_1
+# https://www.youtube.com/watch?v=VIDEO_ID_2
+# https://www.youtube.com/watch?v=VIDEO_ID_3
+
+# 也支持 youtu.be 短链接
+# https://youtu.be/VIDEO_ID_4
+
